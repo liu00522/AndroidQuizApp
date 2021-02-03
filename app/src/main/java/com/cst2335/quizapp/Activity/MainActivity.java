@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         bOpt3 = findViewById(R.id.bOpt3);
         bOpt4 = findViewById(R.id.bOpt4);
 
-        //  load data
+        //  load data here
         questionList.add(new Question("JavaFx BorderPane will divide the screen into a maximum of _________.",
                 "2 components", "4 components",
                 "6 components", "none of the above", "none of the above"));
